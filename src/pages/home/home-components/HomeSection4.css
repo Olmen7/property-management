@@ -31,9 +31,6 @@
   font-size: 1.3em;
 }
 @media screen and (max-width: 450px) {
-  .home-section4-container {
-    height: 50vh;
-  }
   .phone h4 {
     font-size: 1em;
   }
