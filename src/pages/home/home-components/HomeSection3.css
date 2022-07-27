@@ -1,0 +1,20 @@
+.home-section3-container {
+  background-color: rgb(201, 168, 99);
+  padding: 20px 0;
+}
+.first-step {
+  text-align: center;
+  font-size: 2em;
+  color: white;
+}
+.why-wait {
+  color: white;
+  text-align: center;
+}
+.home-section3-link {
+  color: white;
+  font-weight: bold;
+}
+.home-section3-link:hover {
+  color: rgb(9, 9, 54);
+}

@@ -1,0 +1,33 @@
+.navbar-container {
+  width: 100%;
+  background: white;
+  position: fixed;
+  top: 0;
+  box-shadow: 5px 0 10px black;
+  z-index: 9;
+}
+.navbar {
+  display: flex;
+  height: 10vh;
+  align-items: center;
+}
+.logo {
+  flex-basis: 10%;
+  height: 8vh;
+  padding: 0 20px 0 30px;
+}
+.navbar-item-cont {
+  display: flex;
+}
+.nav-item {
+  margin: 0 15px;
+  padding: 5px 10px;
+}
+.nav-item:hover {
+  border-bottom: 1px solid black;
+}
+@media screen and (max-width: 450px) {
+  .company-name {
+    font-size: 0.8em;
+  }
+}
